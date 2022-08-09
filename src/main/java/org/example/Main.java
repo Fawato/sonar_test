@@ -17,5 +17,12 @@ public class Main {
         System.out.println("no");
 
         System.out.println(password);
+        
+        
+        
+        
+        
+        
+        String secret = "a";
     }
 }
