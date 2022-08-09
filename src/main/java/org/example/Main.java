@@ -6,5 +6,18 @@ public class Main {
         String password = "new";
         System.out.println("Hello world!");
         System.out.println(password);
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        String secret = "as";
     }
 }
