@@ -83,3 +83,5 @@ jobs:
         
     - name: Upload scan results
       uses: actions/upload-artifact@v2
+      with:
+        path: ${{ github.workspace }}
